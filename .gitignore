@@ -1,10 +1,6 @@
-# Environment variables and API keys
-.env
-.env.*
-!.env.example
+groq_api_key=gsk_----------asdfasdf
 
-# Python virtual environments
-.venv/
-venv/
-__pycache__/
-*.pyc
+qdrant_api_key="eyJhasdfads---------"
+
+qdrant_endpoint_cluster_key = "asdfazdsft.io"
+
